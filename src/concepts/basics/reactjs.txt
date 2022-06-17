@@ -1,0 +1,17 @@
+
+What is React?
+
+.it is a open source library for building user interfaces
+.it is not a framework
+.it focus more on UI rather than other things like routing, http
+
+Techinical advantages of React:
+
+.it is a component based architecture
+.these components makes it possible to reuse the code
+.React is declarative(like we are telling the house design to an engineer and engineer himself will draw the design)
+.React will handle efficiently updating and rendering of the components only which need the change 
+rather than updating the whole page
+.DOM updates handle gracefully in React.
+
+

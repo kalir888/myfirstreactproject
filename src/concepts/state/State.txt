@@ -1,0 +1,6 @@
+                state
+state is managed within the component
+Variables declared in the function body
+state can be changed
+useState Hook-Functional Components
+this.state-Class Components                              

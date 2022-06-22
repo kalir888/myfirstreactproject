@@ -1,0 +1,2 @@
+event handling is used to handle the events like click, change .. etc . 
+we can define the changes which have to be done when a event happened.

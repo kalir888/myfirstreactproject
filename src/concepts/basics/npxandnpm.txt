@@ -1,0 +1,4 @@
+                    npx                                                     npm
+        npx create-react-app <project-name>                   npm install create-react-app -g 
+        npm package runner                                    npx create-react-app <project-name> 
+        no need to install things globally                    will need to install things globally  

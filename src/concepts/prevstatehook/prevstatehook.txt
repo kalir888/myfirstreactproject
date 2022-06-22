@@ -1,0 +1,2 @@
+if you are going to change the state to prevent the console the state value which is previously it had we have to use
+a prevState variable for that.

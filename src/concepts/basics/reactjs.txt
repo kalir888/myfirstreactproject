@@ -15,3 +15,23 @@ rather than updating the whole page
 .DOM updates handle gracefully in React.
 
 
+React runtime explanation:
+        normally when designing a website through HTML we will dierectly in conversation with browser. But when we 
+designing a website in ReactJS react will act as a middleman between programmer and UserInterface.
+
+DOM: it is stands for Document object Model. The Document Object Model is a cross-platform and language-independent 
+interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part 
+of the document. The DOM represents a document with a logical tree.
+
+HTML_Object: in react every HTML element considered as an Javascript Object
+
+How react is running??
+ 
+        in react it will create a virtual DOM and actual DOM. actual DOM will be executed in browser and the same replica
+of the actual DOM which is virtual DOM will be stored in react itself. 
+
+        now if any action done on UserInterface the react in response will create a new virtual DOM according to the action
+done on the UI. now the react will compare the old virtual DOM which it is already stored before the action done and 
+the new virtual DOM and it will return the list of changes to the browser and the browser will execute the changes in UI.
+
+        

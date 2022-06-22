@@ -1,0 +1,1 @@
+in react we can destructure the props and state as the same as we can destructure the object in ES6 javascript.

@@ -1,0 +1,9 @@
+props is used to send and recieve properties of the element to the HTML element.
+
+
+                    props                                       state
+    props get passed to the component           state is managed within the component
+    function parameters                         Variables declared in the function body
+    props are immutable                         state can be changed
+    props-Functional Components                 useState Hook-Functional Components
+    this.props-Class Components                 this.state-Class Components                              

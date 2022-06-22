@@ -1,0 +1,5 @@
+we know a parent component will communciate with a child component by using props. but if a child component want to communciate
+with parent component then also it use props only but with a method reference.
+
+through this method a child component can call a parent component method. we achieving this by passing the method itself 
+to the child component as props

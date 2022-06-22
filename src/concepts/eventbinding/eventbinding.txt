@@ -1,0 +1,7 @@
+already the program realted to this event binding is done by me in classbasedcomponents
+
+there are three weay to bind the event 
+    1. declare the event as a arrow function inside the onclick event
+    2. binding the event while declaring itself
+    3. binding the event in constructor(is the best option)
+    4. declare the event as a arrow function in the class

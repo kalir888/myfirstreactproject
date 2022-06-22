@@ -1,0 +1,10 @@
+The class based components are also will recieve the properties(props) and will return the HTML element which will 
+describe the UI.Apart from this a class component can maintain a private internal state(some private information) 
+using which we can describe the UI.
+
+Advantages:
+    1.More feature rich
+    2.Maintain their own orivate data-state
+    3.complex UI logic 
+    4.provide lifecycle hooks
+    5.Stateful / Smart / Container

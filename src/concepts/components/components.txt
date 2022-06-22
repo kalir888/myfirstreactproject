@@ -1,0 +1,13 @@
+in react the component represents a part of the UI. they are reusable .In react all the components are contained by a main component 
+which is Root(App). other all the components will be nested components.
+
+Component in code:
+    A component code will be placed in a Javascript file(like App.js). in react we have two types of component
+    they are
+            1. Stateless Functional Component
+            2. Stateful Class Component
+Stateless Functional Component: Functional Components are literally Javascript functions they will return the HTML components
+that describes the UI.
+
+Stateful Class Component: Class Components are regulare ES6 Classes that extend the Component class from the react library
+it must have a render method which will return the HTML component that describes the UI.

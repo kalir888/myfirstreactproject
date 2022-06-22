@@ -1,0 +1,10 @@
+Functional components are Javascript functions. they can optionally recieve an object of properties(props) and return 
+HTML(JSX) element which describes the UI.
+
+Advantages:
+    1. simple functions
+    2. Use Func components as much as possible
+    3. Absence of 'this' keyword
+    4. Solution without using state
+    5. Mainly responsible for the UI
+    6. Stateless / Dumb / Presentational

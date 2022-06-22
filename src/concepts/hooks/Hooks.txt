@@ -1,0 +1,10 @@
+Hooks is a new feature added by ReactJS team which ensures that we can use create stateful function without using a class
+
+Hooks are a new feature addition in react version 16.8 which allow you to use React features having to write a class.
+ex: State of a component
+Hooks don't work inside classes.
+
+before Hooks:
+    have to Understand how this keyword works in javascript.
+    remember to bind event handlers in class components.
+    Classes don't minify very well and make hot reloading very unreliable.
